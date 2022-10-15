@@ -134,9 +134,9 @@
  ----------------------------
  
 # Решение:
-[Часть 1](https://github.com/artmaxst/Homework/blob/main/Часть%20№1.pdf)
+[Часть 1](https://github.com/artmaxst/Jobs/blob/main/Часть%20№1.pdf)
 
-[Часть 2](https://github.com/artmaxst/Homework/blob/main/Часть%20№2.pdf)
+[Часть 2](https://github.com/artmaxst/Jobs/blob/main/Часть%20№2.pdf)
 
-[Часть 3](https://github.com/artmaxst/Homework/blob/main/Часть%20№3.pdf)
+[Часть 3](https://github.com/artmaxst/Jobs/blob/main/Часть%20№3.pdf)
  
